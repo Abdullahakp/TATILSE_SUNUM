@@ -30,6 +30,8 @@ Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 
 ![image](https://github.com/Abdullahakp/TATILSE_SUNUM/assets/65625793/9e6db947-e9c4-4a74-a731-c4f176b5359e)
 ![image](https://github.com/Abdullahakp/TATILSE_SUNUM/assets/65625793/a59d0fcd-efc3-4c40-80d2-1f23fa5f62e7)
+![image](https://github.com/Abdullahakp/TATILSE_SUNUM/assets/65625793/a1ded4fd-8cc9-4afc-9caa-b89118e70f75)
+
 ![image](https://github.com/Abdullahakp/TATILSE_SUNUM/assets/65625793/d3d99531-875f-40fb-beb5-c7f20d2be0af)
 
 ![image](https://github.com/Abdullahakp/TATILSE_SUNUM/assets/65625793/e579abb0-d480-44c1-94d1-763126a6cdb4)
