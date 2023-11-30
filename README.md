@@ -3,7 +3,7 @@ Merhaba, Tivitle projesi 2023 yılında Helil Kaya ile takım çalışması yapt
 
 Bu projenin tüm hakları ben Abdullah Akpınar'a ve takım arkadaşım Helin Kaya'ya aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
-PROJE HAKKINDA TEKNİK BİLGİLER:
+## PROJE HAKKINDA TEKNİK BİLGİLER:
 
 Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
 
